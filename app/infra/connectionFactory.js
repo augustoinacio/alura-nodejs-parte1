@@ -23,7 +23,7 @@ function createDBConnection(){
             host: grupos[3],
             user: grupos[1],
             password: grupos[2],
-            database: grupos[5]
+            database: grupos[4]
         });
     }
 }
